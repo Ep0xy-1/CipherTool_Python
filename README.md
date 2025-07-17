@@ -57,12 +57,8 @@ cipher-tool/
 └── preview.png          # Optional GUI screenshot
 
 # 🙌 Credits
-Developed with ❤️ by [Your Name]
+Developed with ❤️ by me!
 Inspired by classical encryption methods
-
-# 📜 License
-This project is licensed under the MIT License.
-See LICENSE for more information.
 
 ---
 made in 17/07/2025
