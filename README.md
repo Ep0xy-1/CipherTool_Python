@@ -52,9 +52,9 @@ Option	Description
 
 # 📁 File Structure
 cipher-tool/
-├── cipher_tool.py       # Main Python GUI code
-├── README.md            # You're here!
-└── preview.png          # Optional GUI screenshot
+- cipher_tool.py       # Main Python GUI code
+-  README.md            # You're here!
+-   review.png          # Optional GUI screenshot
 
 # 🙌 Credits
 Developed with ❤️ by me!
