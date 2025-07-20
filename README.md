@@ -1,5 +1,3 @@
-# CipherTool_Python
-
 # 🔐 Cipher Tool: Caesar & Vigenère (Tkinter GUI)
 
 A beginner-friendly, GUI-based Python application for encrypting and decrypting text using the **Caesar Cipher** and **Vigenère Cipher**. Built with `Tkinter` and `pygame`, it includes real-time decoding, sound feedback, and customizable settings.
